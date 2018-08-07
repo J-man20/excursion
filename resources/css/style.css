@@ -30,3 +30,9 @@ h2{
    font-size: 21px;
    color: Gray;
  }
+
+ /* Footer */
+ .footer{
+   color: Gray;
+   text-align: right;
+ }
